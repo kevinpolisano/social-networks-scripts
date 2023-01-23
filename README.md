@@ -26,7 +26,7 @@ Preliminary steps to save the file `post.html`:
 ### Usage
 
   ```bash
-  python python facebook-comments.py -i post.html > comments.txt
+  python facebook-comments.py -i post.html > comments.txt
                                     [--dialogue True]
   ```
 ```bash
